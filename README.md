@@ -6,6 +6,8 @@ Aspiring Software Engineer
 
 I'm passionate about driving innovation and efficiency in the world of technology. Currently, I'm pursuing my master's degree while building upon a solid foundation of one year of practical experience in DevOps engineering. As a knowledge enthusiast, I thrive in dynamic environments, adapting quickly to evolving technologies and industry best practices. My track record as a quick learner and an efficient problem solver has enabled me to tackle complex challenges head-on. My overarching goal is to assist companies in constructing scalable solutions using effective and optimal approaches to address a wide range of problems. I believe in the power of technology to transform businesses and am dedicated to making this transformation a reality. Looking ahead, I aspire to take my career to the next level by stepping into the world of software engineering. By combining my DevOps expertise with software development skills, I aim to contribute to cutting-edge projects that push the boundaries of what technology can achieve.
 
+![](https://hit.yhype.me/github/profile?user_id=56302075)
+
 * 🌍  I'm based in New Jersey, United States of America.
 * ✉️  You can contact me at [owaisimran678@gmail.com](mailto:owaisimran678@gmail.com)
 
